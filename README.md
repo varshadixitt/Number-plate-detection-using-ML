@@ -1,7 +1,5 @@
 
-# License Plate Detector - README
-
-## 🎉 **Welcome to the License Plate Detector!**
+# Number Plate Detector
 
 This Python application is designed to process a folder of images and detect license plates. Using **EasyOCR** for optical character recognition (OCR) and **OpenCV** for image processing, the tool helps you extract text from vehicle plates and save the results in an easy-to-read format.
 
@@ -92,22 +90,7 @@ Feel free to fork this project and contribute improvements, bug fixes, or featur
 
 ---
 
-## ✨ **Future Enhancements**  
-- Add **live preview** of the images as they are processed.
-- Implement a **batch processing** option for folders with many images.
-- Provide **GPU support** for faster OCR processing.
-
----
-
 ## 📧 **Contact**  
-If you have any questions or need support, feel free to contact the project creator. You can reach out via email or open an issue on GitHub.
+If you have any questions or need support, feel free to contact me. You can reach out via email or open an issue on GitHub.
 
 ---
-
-## 📝 **License**
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-### 💬 **Enjoy using the License Plate Detector!**
